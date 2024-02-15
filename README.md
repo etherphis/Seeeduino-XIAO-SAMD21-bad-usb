@@ -32,17 +32,17 @@ Before using this Bad USB firmware, ensure you have the following:
 - USB cable for connecting the Seeeduino XIAO to your computer
 
 ### Installation
-
-1. Clone this repository to your local machine:
+1. https://wiki.seeedstudio.com/Seeeduino-XIAO/#software
+2. Clone this repository to your local machine:
 
 ```bash
    git clone https://github.com/etherphis/Seeeduino-XIAO-SAMD21-bad-usb-firmware.git
 ```
 
-2. Open the Arduino IDE or Visual Studio Code
-3. Install the necessary libraries:
+3. Open the Arduino IDE or Visual Studio Code
+4. Install the necessary libraries:
    - Keyboard
-4. Connect your Seeeduino XIAO to your computer using the USB cable.
+5. Connect your Seeeduino XIAO to your computer using the USB cable.
 
 ## Usage
 ### Uploading the Firmware
