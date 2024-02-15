@@ -1,6 +1,6 @@
 # Seeeduino-XIAO-SAMD21-bad-usb
 
-# (🚨MORE SCRIPTS SOON!🚨)
+(🚨MORE SCRIPTS SOON!🚨)
 
 Bad USB Firmware for Seeeduino XIAO SAMD21 (FIRMWARE ONLY EMULATES EN_US KEYBOARD LAYOUT FOR NOW)
 
@@ -11,7 +11,6 @@ This project provides Bad USB firmware for the Seeeduino XIAO SAMD21 development
 ## Table of Contents
 
 - [Seeeduino-XIAO-SAMD21-bad-usb](#seeeduino-xiao-samd21-bad-usb)
-- [(🚨MORE SCRIPTS SOON!🚨)](#more-scripts-soon)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
